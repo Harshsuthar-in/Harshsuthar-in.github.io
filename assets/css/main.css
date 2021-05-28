@@ -706,8 +706,7 @@ input, select, textarea {
 					}
 
 				#header nav a span {
-					font-weight: bold;
-					display: block;
+					display: none;
 				}
 
 /* Footer */
@@ -1080,3 +1079,8 @@ input, select, textarea {
 		#header nav {
 			padding: 0 1em;
 		} }
+
+.whatsapp:hover{
+	font-weight: 600;
+	color: rgb(255, 255, 255);
+}
