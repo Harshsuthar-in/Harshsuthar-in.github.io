@@ -1087,3 +1087,15 @@ input, select, textarea {
 	font-weight: 600;
 	color: rgb(255, 255, 255);
 }
+
+.harsh{
+	background-image: url('https://media3.giphy.com/media/l0MYwXxKiwW39Dwcw/giphy.gif?cid=ecf05e478uydrigq3wuj9pf99dpplol2mfs7var9mbjbkqjg&rid=giphy.gif&ct=g');
+	background-size: cover;
+	color: transparent;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+	text-transform: uppercase;
+	font-size: 120px;
+	line-height: .75;
+	margin: 10px 0;
+}
